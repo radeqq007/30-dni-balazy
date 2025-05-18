@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Fakty o kotach</string>
+
+    <string name="day1">Radar Wąsów</string>
+    <string name="day1_description">Kot używa wąsów do wykrywania zmian w otoczeniu i mierzenia szczelin.</string>
+
+    <string name="day2">Tajemnica Mruczenia</string>
+    <string name="day2_description">Naukowcy wciąż nie do końca rozumieją, jak i dlaczego koty mruczą.</string>
+
+    <string name="day3">Śpiochy</string>
+    <string name="day3_description">Koty śpią około 13–16 godzin dziennie, aby oszczędzać energię.</string>
+
+    <string name="day4">Szybkie Odruchy</string>
+    <string name="day4_description">Domowy kot może biegać z prędkością do 48 km/h w krótkich sprintach.</string>
+
+    <string name="day5">Fasolki</string>
+    <string name="day5_description">Koty mają gruczoły potowe w opuszkach łap, zwanych „fasolkami.”</string>
+
+    <string name="day6">Cisi Myśliwi</string>
+    <string name="day6_description">Koty chodzą jak wielbłądy i żyrafy – najpierw prawa strona, potem lewa.</string>
+
+    <string name="day7">Unikalne Noski</string>
+    <string name="day7_description">Odcisk nosa kota jest tak unikalny, jak odcisk palca u człowieka.</string>
+
+    <string name="day8">Język Miałczenia</string>
+    <string name="day8_description">Dorosłe koty miauczą głównie do ludzi, nie do innych kotów.</string>
+
+    <string name="day9">Starożytne Pupile</string>
+    <string name="day9_description">Koty zostały udomowione około 9 000 lat temu na Bliskim Wschodzie.</string>
+
+    <string name="day10">Elastyczne Kręgosłupy</string>
+    <string name="day10_description">Kręgosłupy kotów są bardzo elastyczne, co ułatwia im skakanie i skręty.</string>
+
+    <string name="day11">Widzenie w Nocy</string>
+    <string name="day11_description">Koty widzą przy oświetleniu sześciokrotnie słabszym niż ludzie.</string>
+
+    <string name="day12">Łapowa Preferencja</string>
+    <string name="day12_description">Koty mogą być prawo- lub lewonożne, podobnie jak ludzie.</string>
+
+    <string name="day13">Terytorialne Ogony</string>
+    <string name="day13_description">Koty używają ogonów do komunikowania nastroju i zaznaczania terytorium.</string>
+
+    <string name="day14">Zmęczenie Wąsów</string>
+    <string name="day14_description">Zbyt duża stymulacja wąsów może powodować u kota stres.</string>
+
+    <string name="day15">Zoomies Wyjaśnione</string>
+    <string name="day15_description">Nagłe wybuchy energii, czyli „zoomies,” są u kotów normalne.</string>
+
+    <string name="day16">Ćwierkanie i Szczebiotanie</string>
+    <string name="day16_description">Koty często ćwierkają, patrząc na ptaki – z ekscytacji lub frustracji.</string>
+
+    <string name="day17">Lizanie z Miłości</string>
+    <string name="day17_description">Gdy kot cię liże, to często oznaka sympatii lub zachowań pielęgnacyjnych.</string>
+
+    <string name="day18">Pozytywne Wibracje</string>
+    <string name="day18_description">Głaskanie kota może obniżać ciśnienie krwi i redukować stres.</string>
+
+    <string name="day19">Trzecia Powieka</string>
+    <string name="day19_description">Koty mają trzecią powiekę – tzw. migotkę – chroniącą ich oczy.</string>
+
+    <string name="day20">Obrotowe Uszy</string>
+    <string name="day20_description">Każde ucho kota może obracać się niezależnie o 180 stopni.</string>
+
+    <string name="day21">Kolory Futra</string>
+    <string name="day21_description">Kotki trójkolorowe (kaliko) są prawie zawsze samicami – przez genetykę.</string>
+
+    <string name="day22">Ogonowa Mowa</string>
+    <string name="day22_description">Uniesiony ogon oznacza zwykle, że kot jest szczęśliwy i przyjazny.</string>
+
+    <string name="day23">Tuniakowa Obsesja</string>
+    <string name="day23_description">Niektóre koty uzależniają się od tuńczyka, który w nadmiarze szkodzi.</string>
+
+    <string name="day24">Leczące Mruczenie</string>
+    <string name="day24_description">Mruczenie kota może wspomagać leczenie i łagodzić ból – nawet u ludzi!</string>
+
+    <string name="day25">Zaznaczanie Terenu</string>
+    <string name="day25_description">Niekastrowane kocury mogą znaczyć teren, opryskując go moczem.</string>
+
+    <string name="day26">Kocia Zwinność</string>
+    <string name="day26_description">Koty potrafią skakać na odległość sześciokrotnie większą niż ich ciało.</string>
+
+    <string name="day27">Czas na Toaletę</string>
+    <string name="day27_description">Koty spędzają 30–50% czasu czuwania na pielęgnacji futra.</string>
+
+    <string name="day28">Mali Myśliwi</string>
+    <string name="day28_description">Nawet domowe koty zachowują silny instynkt i umiejętności łowieckie.</string>
+
+    <string name="day29">Czułe Wąsy</string>
+    <string name="day29_description">Wąsy kota są tak czułe, że wyczuwają najmniejsze ruchy powietrza.</string>
+
+    <string name="day30">Słynna Kotka</string>
+    <string name="day30_description">Pierwszą kotką w kosmosie była Félicette – Francuzka wysłana w 1963 roku.</string>
+</resources>
