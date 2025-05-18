@@ -21,18 +21,18 @@ val Outfit = FontFamily(
 val Typography = Typography(
     displayLarge = TextStyle(
         fontFamily = AntonRegular,
-        fontWeight = FontWeight.Normal,
-        fontSize = 20.sp
+        fontWeight = FontWeight.Bold,
+        fontSize = 22.sp
     ),
     displayMedium = TextStyle(
         fontFamily = Outfit,
-        fontWeight = FontWeight.Bold,
-        fontSize = 16.sp
+        fontWeight = FontWeight.SemiBold,
+        fontSize = 18.sp
     ),
 
     displaySmall = TextStyle(
-        fontFamily = Lexend,
+        fontFamily = Outfit,
         fontWeight = FontWeight.Normal,
-        fontSize = 15.sp
+        fontSize = 16.sp
     )
 )
