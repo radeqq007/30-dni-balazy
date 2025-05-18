@@ -84,7 +84,7 @@ fun DayItem(
     day: Day,
     modifier: Modifier = Modifier
 ) {
-    var pressed by remember { mutableStateOf(false) }
+    val pressed by remember { mutableStateOf(false) }
 
     val scale by animateFloatAsState(
         targetValue = if (pressed) 0.95f else 1f,
